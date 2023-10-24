@@ -16,7 +16,7 @@ What you can find here:
 
 P.S. I'm happy to receive feedback or advice. 😁
 <details>
-  <summary><h2>Homework 1: Controlling an RGB LED using individual potentiometers. </h2></summary>
+  <summary><h2> 💥Homework 1: Controlling an RGB LED using individual potentiometers.💥</h2></summary>
   <strong>Technical Task:</strong> Use a separate potentiometer for controlling each color of the RGB LED:Red, Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins.  <br>
   
   <strong>Components:</strong>
