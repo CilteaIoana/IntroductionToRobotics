@@ -17,13 +17,12 @@ What you can find here:
 P.S. I'm happy to receive feedback or advice. 😁
 <details>
   <summary><h2> 💥Homework 1: Controlling an RGB LED using individual potentiometers.💥</h2></summary>
-  <strong>Technical Task:</strong> Use a separate potentiometer for controlling each color of the RGB LED:Red, Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins.  
-  
+  <strong>Technical Task:</strong> Use a separate potentiometer for controlling each color of the RGB LED:Red, Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins.  <br><br/>
   
   <strong>Components:</strong>
   * RGB LED (At least 1)
   * Potentiometers (At least 3)
-  * Resistors and wires as needed
+  * Resistors and wires as needed <br><br/>
 
   <strong>Setup Picture:</strong>
 ![hm1](https://github.com/CilteaIoana/robo/assets/115061960/e8d25135-4c66-4c2c-82a2-9829795a449b)
