@@ -31,3 +31,29 @@ P.S. I'm happy to receive feedback or advice. 😁
   https://www.youtube.com/watch?v=9MZqbJrcT3w&ab_channel=IoanaC.
   
 </details>
+
+
+<details>
+
+<summary><h2>🛗Homework 2: Elevator simulator wannabe </h2></summary>
+  <strong>Technical Task:</strong> 
+ Design a control system that simulates a 3-floor elevator using the Arduino platform. Here are the specific requirements:<br><br/>
+-> LED Indicators: Each of the 3 LEDs should represent one of the 3 floors. The LED corresponding to the current floor should light up. Additionally, another LED should represent the elevator’s operational state. It should blink when the elevator is moving and remain static when stationary.<br><br/>
+-> Buttons: Implement 3 buttons that represent the call buttons from the 3 floors. When pressed, the elevator should simulate movement towards the floor after a short interval (2-3 seconds).
+-> State Change & Timers: If the elevator is already at the desired floor, pressing the button for that floor should have no effect. Otherwise, after a button press, the elevator should ”wait for the doors to close” and then
+”move” to the corresponding floor. If the elevator is in movement, it should either do nothing or it should stack its decision (get to the first programmed floor, open the doors, wait, close them and then go to the next desired floor).<br><br/>
+-> Debounce: Remember to implement debounce for the buttons to avoid
+unintentional repeated button presses.. <br><br/>
+
+  
+  <strong>Components:</strong>
+* LEDs (At least 4: 3 for the floors and 1 for the elevator’s operational state)
+* Buttons (At least 3 for floor calls)
+* Resistors and wires as needed
+
+  <strong>Setup Picture:</strong>
+  ![Homework_2](https://github.com/CilteaIoana/robo/assets/115061960/952adde8-da08-45a2-914d-1056cd4100af)
+
+  <strong>Task Showcase:</strong>
+  https://www.youtube.com/watch?v=TYBvZ8O9zY4&ab_channel=IoanaC.
+  </details>
