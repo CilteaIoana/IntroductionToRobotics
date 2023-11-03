@@ -27,29 +27,14 @@ int travelStartTime;
 
 void setup() {
   for (int i = 0; i < NUM_FLOORS; i++) {
-    pinMode(elevatorButtons[i], INPUT_PULLUP); 
-    pinMode(elevatorLeds[i], OUTPUT);         
-    digitalWrite(elevatorLeds[i], LOW);       
+    pinMode(elevatorButtons[i], INPUT_PULLUP); // Configurare butoane
+    pinMode(elevatorLeds[i], OUTPUT);          // Configurare LED-uri
+    digitalWrite(elevatorLeds[i], LOW);       // Oprirea tuturor LED-urilor
   }
   digitalWrite(elevatorLeds[elevatorCurrentFloor], HIGH); // Aprind LED-ul pentru etajul curent
 
   pinMode(blinkLedPin, OUTPUT);
   Serial.begin(9600); 
-}
-
-void manageBlink() {
-  bool isMoving = (elevatorState == 2 || elevatorState == -2);
-
-  if (isMoving) {
-    if (millis() > lastBlinkTime + BLINK_INTERVAL_MS) {
-      isBlinkOn = !isBlinkOn; 
-      digitalWrite(blinkLedPin, isBlinkOn); 
-      lastBlinkTime = millis(); 
-    }
-  } else {
-    isBlinkOn = true; 
-    digitalWrite(blinkLedPin, isBlinkOn);
-  }
 }
 
 void loop() {
@@ -127,7 +112,7 @@ void loop() {
       if (millis() >= travelStartTime + TRAVEL_TIME_MS) {
         digitalWrite(elevatorLeds[elevatorCurrentFloor], LOW);
         elevatorCurrentFloor++;
-        digitalWrite(elevatorLeds[elevatorCurrentFloor], HIGH); 
+        digitalWrite(elevatorLeds[elevatorCurrentFloor], HIGH); // Actualizarea etajului curent
         elevatorState = 1; 
         if (buttonIsPressed[elevatorCurrentFloor]) {
           doorState = -1; 
@@ -138,10 +123,10 @@ void loop() {
       if (millis() >= travelStartTime + TRAVEL_TIME_MS) {
         digitalWrite(elevatorLeds[elevatorCurrentFloor], LOW);
         elevatorCurrentFloor--;
-        digitalWrite(elevatorLeds[elevatorCurrentFloor], HIGH); 
+        digitalWrite(elevatorLeds[elevatorCurrentFloor], HIGH); // Actualizarea etajului curent
         elevatorState = -1; 
         if (buttonIsPressed[elevatorCurrentFloor]) {
-          doorState = -1; 
+          doorState = -1; // Usa incepe sa se deschida
           doorOperationTime = millis();
         }
       }
@@ -152,4 +137,19 @@ void loop() {
     buttonIsPressed[elevatorCurrentFloor] = false; 
   }
   currentFloorIndex = (currentFloorIndex + 1) % NUM_FLOORS; 
+}
+
+void manageBlink() {
+  bool isMoving = (elevatorState == 2 || elevatorState == -2);
+  // Daca liftul este in miscare
+  if (isMoving) {
+    if (millis() > lastBlinkTime + BLINK_INTERVAL_MS) {
+      isBlinkOn = !isBlinkOn; 
+      digitalWrite(blinkLedPin, isBlinkOn); 
+      lastBlinkTime = millis(); 
+    }
+  } else {
+    isBlinkOn = true; 
+    digitalWrite(blinkLedPin, isBlinkOn);
+  }
 }
