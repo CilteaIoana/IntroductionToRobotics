@@ -61,7 +61,7 @@ unintentional repeated button presses.. <br><br/>
 
   <details>
 
-<summary><h2>🛗Homework 3: 7 segment display drawing </h2></summary>
+<summary><h2>🕹️Homework 3: 7 segment display drawing </h2></summary>
   <strong>Summary:</strong> 
  The task involves using a joystick to control the position of a segment and "draw" on a display. The segment's movement should be natural, meaning it can only jump to neighboring positions without passing through obstacles.  <br><br/>
  The initial position must be on the decimal point (DP), and the current position blinks continuously. Using the joystick allows you to move to neighboring positions, and short pressing the button toggles the segment's state from ON to OFF or vice versa.  <br><br/>
