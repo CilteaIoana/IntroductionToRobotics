@@ -57,3 +57,25 @@ unintentional repeated button presses.. <br><br/>
   <strong>Task Showcase:</strong>
   https://www.youtube.com/watch?v=TYBvZ8O9zY4&ab_channel=IoanaC.
   </details>
+
+
+  <details>
+
+<summary><h2>🛗Homework 3: 7 segment display drawing </h2></summary>
+  <strong>Summary:</strong> 
+ The task involves using a joystick to control the position of a segment and "draw" on a display. The segment's movement should be natural, meaning it can only jump to neighboring positions without passing through obstacles.  <br><br/>
+ The initial position must be on the decimal point (DP), and the current position blinks continuously. Using the joystick allows you to move to neighboring positions, and short pressing the button toggles the segment's state from ON to OFF or vice versa.  <br><br/>
+ Long pressing the button resets the entire display by turning off all segments and moving the current position back to the decimal point. <br><br/>
+  
+  <strong>Components:</strong>
+* 1 7-segment display
+* 1 joystick
+* resistors and wires (per logic)
+
+  <strong>Setup Picture:</strong>
+![Homework_3](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b227829b-e34c-44ac-89c1-94128d204988)
+
+
+  <strong>Task Showcase:</strong>
+ https://www.youtube.com/shorts/QK71D3ZvcvM
+  </details>
