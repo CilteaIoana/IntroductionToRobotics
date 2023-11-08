@@ -25,11 +25,12 @@ P.S. I'm happy to receive feedback or advice. 😁
   * Resistors and wires as needed <br><br/>
 
   <strong>Setup Picture:</strong>
-![hm1](https://github.com/CilteaIoana/robo/assets/115061960/e8d25135-4c66-4c2c-82a2-9829795a449b)
+
 
   <strong>Task Showcase:</strong>
   https://www.youtube.com/watch?v=9MZqbJrcT3w&ab_channel=IoanaC.
-  
+  ![Homework_1](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/e3c95c93-4003-4204-866c-65283cf11b56)
+
 </details>
 
 
@@ -52,7 +53,7 @@ unintentional repeated button presses.. <br><br/>
 * Resistors and wires as needed
 
   <strong>Setup Picture:</strong>
-  ![Homework_2](https://github.com/CilteaIoana/robo/assets/115061960/952adde8-da08-45a2-914d-1056cd4100af)
+![Uploading Homework_2.jpeg…]()
 
   <strong>Task Showcase:</strong>
   https://www.youtube.com/watch?v=TYBvZ8O9zY4&ab_channel=IoanaC.
