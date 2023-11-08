@@ -52,7 +52,8 @@ unintentional repeated button presses.. <br><br/>
 * Resistors and wires as needed
 
   <strong>Setup Picture:</strong>
-![Uploading Homework_2.jpeg…]()
+![Homework_2](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/a7c8601c-b7da-43ee-97cd-8969e4bdb5f2)
+
 
   <strong>Task Showcase:</strong>
   https://www.youtube.com/watch?v=TYBvZ8O9zY4&ab_channel=IoanaC.
