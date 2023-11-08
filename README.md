@@ -25,11 +25,10 @@ P.S. I'm happy to receive feedback or advice. 😁
   * Resistors and wires as needed <br><br/>
 
   <strong>Setup Picture:</strong>
-
+ ![Homework_1](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/e3c95c93-4003-4204-866c-65283cf11b56)
 
   <strong>Task Showcase:</strong>
   https://www.youtube.com/watch?v=9MZqbJrcT3w&ab_channel=IoanaC.
-  ![Homework_1](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/e3c95c93-4003-4204-866c-65283cf11b56)
 
 </details>
 
