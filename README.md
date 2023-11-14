@@ -80,3 +80,42 @@ unintentional repeated button presses.. <br><br/>
   <strong>Task Showcase:</strong>
  https://www.youtube.com/shorts/QK71D3ZvcvM
   </details>
+
+  <details>
+
+<summary><h2>🕹️Homework 4: Stopwatch Timer </h2></summary>
+  <strong>Summary:</strong> 
+ The project involves creating a stopwatch timer using a 4-digit 7-segment display and three buttons.
+ The timer counts in tenths of a second and includes a lap-saving feature akin to basic phone stopwatch functions. <br><br/>
+
+The initial display value is "000.0," and the buttons have specific functions:
+
+Button 1: Starts or pauses the timer.<br><br/>
+Button 2: Resets (if in pause mode) and resets saved laps (if in lap viewing mode).<br><br/>
+Button 3: Saves laps (if in counting mode) and cycles through the last four saved laps.<br><br/>
+
+<strong>The workflow includes:</strong> 
+
+The display shows "000.0." Pressing the Start button initiates the timer.
+During the timer, pressing the lap button saves the timer's value in memory (up to 4 laps). The 5th press overrides the 1st saved lap. Resetting during the timer or pressing pause has specific outcomes.
+In Pause Mode, the lap button is inactive. Pressing reset sets the display to "000.0."
+After a reset, pressing the lap button cycles through saved laps. Continuous pressing cycles through laps continuously. Resetting in this state clears all flags and sets the timer to "000.0."
+
+<strong>Key considerations:</strong> 
+
+-> Ensure a dot separates seconds from tenths of a second.
+-> Display all digits; for instance, "20.4" seconds should display as "020.4." <br><br/>
+  
+  <strong>Components:</strong>
+* 1 4-digit 7-segment display
+* 3 buttons
+* resistors and wires (per logic)
+  
+  <strong>Setup Picture:</strong>
+![Homework_4](https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/7ba225b7-830e-419f-b632-7a69d0e67c46)
+
+
+
+  <strong>Task Showcase:</strong>
+  https://www.youtube.com/watch?v=QGhUVrdu3Q8&ab_channel=IoanaC.
+  </details>
