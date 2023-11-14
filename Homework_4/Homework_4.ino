@@ -58,7 +58,7 @@ bool resetButtonPressed = false;
 bool lapButtonPressed = false;
 
 unsigned long lastDebounceTime = 0;
-unsigned long debounceDelay = 50;
+unsigned long debounceDelay = 200;
 
 void setup()
 {
