@@ -83,7 +83,7 @@ unintentional repeated button presses.. <br><br/>
 
   <details>
 
-<summary><h2>🕹️Homework 4: Stopwatch Timer </h2></summary>
+<summary><h2>⏱️Homework 4: Stopwatch Timer </h2></summary>
   <strong>Summary:</strong> 
  The project involves creating a stopwatch timer using a 4-digit 7-segment display and three buttons.
  The timer counts in tenths of a second and includes a lap-saving feature akin to basic phone stopwatch functions. <br><br/>
