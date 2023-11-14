@@ -106,7 +106,7 @@ void loop()
     }
 
     // Verific butonul Reset
-    if (digitalRead(resetButtonPin) == LOW && millis() - lastDebounceTime > debounceDelay)
+    if (digitalRead(resetButtonPin) == LOW && millis() - lastDebounceTime > debounceDelay && startPauseButtonPressed)
     {
         resetInterrupt();
         lastDebounceTime = millis();
