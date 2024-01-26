@@ -127,7 +127,7 @@ This project transforms our Arduino into a functioning radar system 📡.
 Using an ultrasonic sensor attached to a servo motor, it scans the surroundings to
 detect objects. The Arduino script efficiently controls the motor, sweeping it
 across an arc 🔄 and using the ultrasonic sensor to gauge distances 📏.
-These measurements are then communicated to a Processing application.<br><br/>
+These measurements are then communicated to a Processing application.
 <br><br/>
 The Processing script brings the data to life on the screen 🖥️, depicting a radar interface.
 It visualizes the detected objects based on their distance and angle relative to the sensor.
@@ -147,7 +147,7 @@ This real-time display mimics a traditional radar screen, updating continuously 
   
 <strong>Setup Picture:</strong> 📷<br><br/>
   <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b199e813-a583-49d2-9537-5f612b713c95" width="350" alt="Radar2">
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="350" alt="Radar1">
+  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="350" alt="Radar1">Processing
 
 
  <strong>Task Showcase:</strong> 🎥<br><br/>
