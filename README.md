@@ -147,10 +147,12 @@ This real-time display mimics a traditional radar screen, updating continuously 
   
 <strong>Setup Picture:</strong> 📷<br><br/>
   <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b199e813-a583-49d2-9537-5f612b713c95" width="350" alt="Radar2">
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="350" alt="Radar1">Processing
+  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="350" alt="Radar1">br><br/>
 
 
- <strong>Task Showcase:</strong> 🎥<br><br/>
+ <strong>Task Showcase:</strong> 🎥
+
+ 
 https://www.youtube.com/watch?v=kTMWoeHirrA&ab_channel=IoanaC.
   </details>
   
