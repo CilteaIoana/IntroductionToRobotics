@@ -120,7 +120,7 @@ After a reset, pressing the lap button cycles through saved laps. Continuous pre
   https://www.youtube.com/watch?v=QGhUVrdu3Q8&ab_channel=IoanaC.
   </details>
 
-
+  <details>
 <summary><h2>⏱🌟 Extra Homework 1: Arduino radar with ultrasonic sensor 🌟</h2></summary>
 <strong>Summary:</strong> 📜
 This project transforms our Arduino into a functioning radar system 📡. Using an ultrasonic sensor attached to a servo motor,
@@ -145,10 +145,11 @@ This real-time display mimics a traditional radar screen, updating continuously 
 * <strong>Task Showcase:</strong> 🎥
   
 <strong>Setup Picture:</strong> 📷
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b199e813-a583-49d2-9537-5f612b713c95" width="563" alt="Radar2">
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="563" alt="Radar1">
+  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b199e813-a583-49d2-9537-5f612b713c95" width="350" alt="Radar2">
+  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ab029731-e67f-497e-a5de-6bee587f1461" width="350" alt="Radar1">
 
 
  <strong>Task Showcase:</strong> 🎥
 https://www.youtube.com/watch?v=kTMWoeHirrA&ab_channel=IoanaC.
   </details>
+  
