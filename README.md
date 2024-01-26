@@ -173,9 +173,9 @@ https://www.youtube.com/watch?v=kTMWoeHirrA&ab_channel=IoanaC.
 * 1 RGB LED 🌈
 * 4 Buttons 🎛️
 * 1 Buzzer 🔊
-* Resistors and Wires 🔌
+* Resistors and Wires (per logic)🔌
 * Arduino Uno 🧠
-* Breadboard
+* Breadboard 
 
   
 <strong>Setup Picture:</strong> 📷<br><br/>
