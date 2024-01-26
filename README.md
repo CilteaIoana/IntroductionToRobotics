@@ -158,30 +158,32 @@ https://www.youtube.com/watch?v=kTMWoeHirrA&ab_channel=IoanaC.
   
   
   <details>
-<summary><h2> Extra Homework 3: Sequence memory game </h2></summary>
-<strong>Summary:</strong> 📜 <br><br/>
-This Arduino project is for a memory game involving LEDs and sounds. Players must replicate an increasing sequence shown 
-    by illuminated LEDs and accompanied by distinct tones, triggered by pressing corresponding buttons. 
-    The game progressively becomes more challenging with each level. If a player makes a mistake, the game emits 
-    an error sound, lights up a red LED, and resets. Success in following the sequence correctly leads to 
-    the next level, a success tone, and a brief green LED flash. The project aims to create an interactive and 
-    entertaining memory challenge using simple electronic components.
+<summary><h2>🧠🎮 Extra Homework 3: Sequence Memory Game 🎮🧠</h2></summary>
+<strong>Summary:</strong> 📜<br><br/>
+🤖 This Arduino project is for a memory game involving LEDs 💡 and sounds 🔊. Players must replicate an increasing sequence shown 
+    by illuminated LEDs and accompanied by distinct tones, triggered by pressing corresponding buttons 🎛️. 
+    The game progressively becomes more challenging with each level 📈. If a player makes a mistake, the game emits 
+    an error sound 🔊, lights up a red LED 🔴, and resets. Success in following the sequence correctly leads to 
+    the next level 🏆, a success tone 🎶, and a brief green LED flash 💚. The project aims to create an interactive and 
+    entertaining memory challenge using simple electronic components 🕹️.<br><br/>
     
 <strong>Components:</strong> 🛠️
-* 4 leds
-* 1 led RGB
-* 4 buttons
-* 1 buzzer
-* resistors and wires (per logic) 🔌
+
+* 4 LEDs 💡
+* 1 RGB LED 🌈
+* 4 Buttons 🎛️
+* 1 Buzzer 🔊
+* Resistors and Wires 🔌
 * Arduino Uno 🧠
 * Breadboard
+
   
 <strong>Setup Picture:</strong> 📷<br><br/>
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/8c6c2dd4-b92c-4dc0-ae16-994bc572b51a" width="350" alt="SequenceMemoryGame1">
-  <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ae724443-2e00-4d68-8a74-7744e5df14da" width="350" alt="SequenceMemoryGame2"><br><br/>
+<img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/8c6c2dd4-b92c-4dc0-ae16-994bc572b51a" width="350" alt="SequenceMemoryGame1">
+<img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/ae724443-2e00-4d68-8a74-7744e5df14da" width="350" alt="SequenceMemoryGame2"><br><br/>
 
-
- <strong>Task Showcase:</strong> 🎥
+<strong>Task Showcase:</strong> 🎥
 
 https://www.youtube.com/watch?v=g-nc0rn7rrA&ab_channel=IoanaC.
-  </details>
+
+</details>
