@@ -187,3 +187,6 @@ https://www.youtube.com/watch?v=kTMWoeHirrA&ab_channel=IoanaC.
 https://www.youtube.com/watch?v=g-nc0rn7rrA&ab_channel=IoanaC.
 
 </details>
+
+
+## [Code](https://github.com/CilteaIoana/IntroductionToRobotics/blob/main/ExtraHomework_3/Simon_Says.ino)
