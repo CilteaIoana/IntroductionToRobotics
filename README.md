@@ -123,14 +123,14 @@ After a reset, pressing the lap button cycles through saved laps. Continuous pre
   <details>
 <summary><h2>⏱🌟 Extra Homework 1: Arduino radar with ultrasonic sensor 🌟</h2></summary>
 <strong>Summary:</strong> 📜 <br><br/>
-This project transforms our Arduino into a functioning radar system 📡. <br><br/>
-Using an ultrasonic sensor attached to a servo motor, it scans the surroundings to <br><br/>
-detect objects. The Arduino script efficiently controls the motor, sweeping it <br><br/>
-across an arc 🔄 and using the ultrasonic sensor to gauge distances 📏.<br><br/>
+This project transforms our Arduino into a functioning radar system 📡.
+Using an ultrasonic sensor attached to a servo motor, it scans the surroundings to
+detect objects. The Arduino script efficiently controls the motor, sweeping it
+across an arc 🔄 and using the ultrasonic sensor to gauge distances 📏.
 These measurements are then communicated to a Processing application.<br><br/>
 <br><br/>
-The Processing script brings the data to life on the screen 🖥️, depicting a radar interface.<br><br/>
-It visualizes the detected objects based on their distance and angle relative to the sensor.<br><br/>
+The Processing script brings the data to life on the screen 🖥️, depicting a radar interface.
+It visualizes the detected objects based on their distance and angle relative to the sensor.
 This real-time display mimics a traditional radar screen, updating continuously as the Arduino feeds it new data 🔄.<br><br/>
 
 <strong>Components:</strong> 🛠️
@@ -143,7 +143,7 @@ This real-time display mimics a traditional radar screen, updating continuously 
 
 <strong>Apps and platforms:</strong> 💻
 * Arduino IDE
-* <strong>Task Showcase:</strong> 🎥
+* Processing
   
 <strong>Setup Picture:</strong> 📷<br><br/>
   <img src="https://github.com/CilteaIoana/IntroductionToRobotics/assets/115061960/b199e813-a583-49d2-9537-5f612b713c95" width="350" alt="Radar2">
